@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **URLDefend**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **Machine learning,Python**
 
