@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yasaswini.padamati1007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BB0mjmuVbnUtom2PuJOMBJOk5ejOTqWu/view?usp=sharing](https://drive.google.com/file/d/1BB0mjmuVbnUtom2PuJOMBJOk5ejOTqWu/view?usp=sharing)
+- 📄 Know about my experiences [[(https://yyasaswini.vercel.app/))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
