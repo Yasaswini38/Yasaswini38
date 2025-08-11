@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yasaswini Padamati</h1>
 <h3 align="center">Driven by Data & Code | Building the Future of AI & Web Development</h3>
 
-- 🔭 I’m currently working on **URLDefend**
+- 🔭 I’m currently working on **Voice AI**
 
 - 🌱 I’m currently learning **MERN Stack**
 
